@@ -4,8 +4,6 @@
 This project analyses long-term trends in a diversified equity portfolio using historical financial time-series data.  
 The goal is to evaluate whether **linear regression** is suitable as a baseline model for capturing portfolio growth over time, and to compare it against a **polynomial regression** model.
 
-This project was completed as part of the **CM3005 Data Science** module.
-
 ---
 
 ## Dataset
